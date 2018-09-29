@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+py3minepi = {git = "https://github.com/py3minepi/py3minepi.git", ref = "master", editable = true}
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

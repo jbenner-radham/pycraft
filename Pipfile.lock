@@ -1,0 +1,26 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "a7f6d33820978b45617b0b3bedbe722d2f6454bc2a9b3be040a8b6faf36516e1"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "py3minepi": {
+            "editable": true,
+            "git": "https://github.com/py3minepi/py3minepi.git",
+            "ref": "393b599fd6a9341fd4800cdd18498100dbc50d1a"
+        }
+    },
+    "develop": {}
+}
